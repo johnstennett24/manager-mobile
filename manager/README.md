@@ -4,7 +4,7 @@ A Flutter Project to help business owners and operators to run their businesses 
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+The starting point for the next most popular app on the app store.
 
 ## Flutter Resources
 
